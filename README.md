@@ -2,6 +2,7 @@
 Digital Literacy Project portfolio covering infographic creation, professional profiles, coding practice, email etiquette, and cybercrime awareness.
 
  **Project Overview**
+ 
 This project is part of the CSE0001 Digital Literacy course at VIT Bhopal University. The objective of this project is to develop awareness and practical skills related to digital tools, online communication, professional presence, and cyber safety.
 
 As a Student Digital Ambassador, I completed five tasks that focus on different aspects of digital literacy. This repository contains all the required files, screenshots, and reports related to each task.
