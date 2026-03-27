@@ -1,13 +1,13 @@
 # digital-literacy-project
 Digital Literacy Project portfolio covering infographic creation, professional profiles, coding practice, email etiquette, and cybercrime awareness.
 
- ## **Project Overview**
+## **Project Overview**
  
 This project is part of the CSE0001 Digital Literacy course at VIT Bhopal University. The objective of this project is to develop awareness and practical skills related to digital tools, online communication, professional presence, and cyber safety.
 
 As a Student Digital Ambassador, I completed five tasks that focus on different aspects of digital literacy. This repository contains all the required files, screenshots, and reports related to each task.
 
-**Repository Structure**
+## **Repository Structure**
 
 * **task-1-presentation/** → Digital Literacy Infographic
 * **task-2-portfolio/** → Screenshots of professional profiles
@@ -16,7 +16,7 @@ As a Student Digital Ambassador, I completed five tasks that focus on different 
 * **task-5-cybercrime/** → Case study & prevention checklist
 * **report/** → Final project report
 
-**Task Summary**
+## **Task Summary**
 
 Task 1: Infographic
 Created a digital literacy awareness infographic using Canva covering topics like safe internet practices, useful tools, and digital literacy basics.
@@ -34,7 +34,7 @@ Task 5: Cybercrime Awareness
 Prepared a phishing case study and created a prevention checklist to spread awareness about online safety.
 
 
-**Tools Used**
+## **Tools Used**
 * Canva (Infographic Design)
 * GitHub (Project Repository)
 * LinkedIn (Professional Profile)
@@ -42,7 +42,7 @@ Prepared a phishing case study and created a prevention checklist to spread awar
 * Google Forms (Quiz Creation)
 
 
-**Learning Outcomes**
+## **Learning Outcomes**
 * Improved understanding of digital literacy
 * Learned to create professional online profiles
 * Gained basic coding and problem-solving skills
@@ -51,6 +51,6 @@ Prepared a phishing case study and created a prevention checklist to spread awar
 
 
 
-**Conclusion**
+## **Conclusion**
 
 This project helped me enhance my digital skills and understand how to use online platforms responsibly and effectively. It also improved my communication skills and awareness about cybersecurity, which will be helpful in my academic and professional journey.
